@@ -23,6 +23,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Atlassian|Not Cancelled||
 |Capital One|Not Cancelled||
 |Carvana|Not Cancelled|Hiring Freeze|
+|CenturyLink|Not Cancelled|Offers not being rescinded|
 |Citadel|Not Cancelled|WFH Possible|
 |Disney|Not Cancelled||
 |Dropbox|Not Cancelled||
